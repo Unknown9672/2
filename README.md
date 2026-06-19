@@ -2,12 +2,12 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Index Redm Bakra</title>
+  <title>Index Redm Kalla</title>
 </head>
 
 <body style="text-align:center;font-family:Arial;margin-top:80px;background:#111;color:white;">
 
-  <h1>📁 INDEX REDM BAKRA</h1>
+  <h1>📁 INDEX REDM Kalla</h1>
 
   <p>System checking files...</p>
 
